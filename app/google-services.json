@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "176875619982",
+    "project_id": "shayriapp-4b1d1",
+    "storage_bucket": "shayriapp-4b1d1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:176875619982:android:22fc1a3748e862ff1febdf",
+        "android_client_info": {
+          "package_name": "com.example.shayriapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "176875619982-rr02bicqn7tekh5o6npspsosevpp7itq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqv99nE34hrGgRgn8xzFoi1zF_yZOooQw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "176875619982-rr02bicqn7tekh5o6npspsosevpp7itq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
